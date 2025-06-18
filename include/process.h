@@ -19,7 +19,7 @@ node * tete ;
 node * que ;
 }myfile ;
 
-// Prototypes des fonctions
+// Prototypes des fonctions:
 
 // Initialisation de la file
 myfile initialise_file(myfile F, int taille);
