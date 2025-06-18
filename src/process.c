@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
-#include "include/process.h"
+#include "../include/process.h"
 
 myfile initialise_file(myfile F,int taille){
 
