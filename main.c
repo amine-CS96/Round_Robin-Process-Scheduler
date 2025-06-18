@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
-#include "include/process.h"
+#include "../include/process.h"
 int main()
 {
 myfile F;
